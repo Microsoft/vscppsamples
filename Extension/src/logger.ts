@@ -6,6 +6,7 @@
 
 import * as vscode from 'vscode';
 import * as os from 'os';
+import { CppSettings } from './LanguageServer/settings';
 
 // This is used for testing purposes
 let Subscriber: (message: string) => void;
@@ -70,6 +71,11 @@ let outputChannel: vscode.OutputChannel | undefined;
 export function getOutputChannel(): vscode.OutputChannel {
     if (!outputChannel) {
         outputChannel = vscode.window.createOutputChannel("C/C++");
+        const settings: CppSettings = new CppSettings();
+        const loggingLevel: string | undefined = settings.loggingLevel;
+        if (!!loggingLevel && loggingLevel !== "None" && loggingLevel !== "Error") {
+            outputChannel.appendLine(`loggingLevel: ${loggingLevel}`);
+        }
     }
     return outputChannel;
 }
