@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Varsayılan Yapılandırma",
 	"select.configuration": "Yapılandırma seçin",
+	"debug.configuration.selection.canceled": "Hata ayıklama yapılandırma seçimi iptal edildi",
 	"cl.exe.not.available": "{0} derlemesi ve hata ayıklama yalnızca VS Code, VS için Geliştirici Komut İstemi'nden çalıştırıldığında kullanılabilir.",
 	"miDebuggerPath.not.available": "miDebuggerPath yok: {0}. Hata ayıklayıcısı yüklendi mi?",
 	"debugger.deprecated.config": "{0}' anahtarı kullanım dışı. Lütfen bunun yerine '{1}' kullanın.",

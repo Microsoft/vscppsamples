@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Konfiguracja domyślna",
 	"select.configuration": "Wybierz konfigurację",
+	"debug.configuration.selection.canceled": "Anulowano wybór konfiguracji debugowania",
 	"cl.exe.not.available": "{0} — funkcji kompilacji i debugowania można używać tylko wtedy, gdy program VS Code został uruchomiony z wiersza polecenia dla deweloperów w programie VS.",
 	"miDebuggerPath.not.available": "Element miDebuggerPath nie istnieje: {0}. Czy zainstalowano debuger?",
 	"debugger.deprecated.config": "Klucz „{0}” jest przestarzały. Zamiast niego użyj klucza „{1}”.",

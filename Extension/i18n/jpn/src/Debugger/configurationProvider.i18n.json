@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "既定の構成",
 	"select.configuration": "構成の選択",
+	"debug.configuration.selection.canceled": "デバッグ構成の選択が取り消されました",
 	"cl.exe.not.available": "{0} のビルドとデバッグを使用できるのは、VS 用開発者コマンド プロンプトから VS Code を実行する場合のみです。",
 	"miDebuggerPath.not.available": "miDebuggerPath が存在しません: {0}。デバッガーはインストールされていますか?",
 	"debugger.deprecated.config": "キー '{0}' は非推奨です。代わりに '{1}' をお使いください。",

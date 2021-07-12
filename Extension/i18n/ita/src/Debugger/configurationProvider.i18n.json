@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Configurazione predefinita",
 	"select.configuration": "Seleziona una configurazione",
+	"debug.configuration.selection.canceled": "Selezione configurazione debug annullata",
 	"cl.exe.not.available": "La compilazione e il debug di {0} sono utilizzabili solo quando VS Code viene eseguito da Prompt dei comandi per gli sviluppatori per Visual Studio.",
 	"miDebuggerPath.not.available": "miDebuggerPath non esiste: {0}. È stato installato un debugger?",
 	"debugger.deprecated.config": "La chiave '{0}' è deprecata. In alternativa, usare '{1}'.",

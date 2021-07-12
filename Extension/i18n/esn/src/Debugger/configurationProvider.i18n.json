@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Configuración predeterminada",
 	"select.configuration": "Seleccionar una configuración",
+	"debug.configuration.selection.canceled": "Se canceló la selección de configuración de depuración",
 	"cl.exe.not.available": "La compilación y depuración de {0} solo se puede usar cuando VS Code se ejecuta desde el Símbolo del sistema para desarrolladores de Visual Studio.",
 	"miDebuggerPath.not.available": "El valor miDebuggerPath no existe: {0}. ¿Se ha instalado algún depurador?",
 	"debugger.deprecated.config": "La clave \"{0}\" está en desuso. En su lugar, use \"{1}\".",

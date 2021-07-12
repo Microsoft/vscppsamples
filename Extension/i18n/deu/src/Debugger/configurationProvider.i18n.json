@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Standardkonfiguration",
 	"select.configuration": "Konfiguration auswählen",
+	"debug.configuration.selection.canceled": "Auswahl der Debugkonfiguration abgebrochen",
 	"cl.exe.not.available": "{0}-Build und -Debuggen können nur verwendet werden, wenn VS Code von der Developer-Eingabeaufforderung für VS ausgeführt wird.",
 	"miDebuggerPath.not.available": "\"miDebuggerPath\" ist nicht vorhanden: {0}. Wurde ein Debugger installiert?",
 	"debugger.deprecated.config": "Der Schlüssel \"{0}\" ist veraltet. Verwenden Sie stattdessen \"{1}\".",

@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Výchozí konfigurace",
 	"select.configuration": "Vybrat konfiguraci",
+	"debug.configuration.selection.canceled": "Výběr konfigurace ladění byl zrušen.",
 	"cl.exe.not.available": "Sestavení a ladění {0} je k dispozici jen v případě, že se nástroj VS Code spustil z nástroje Developer Command Prompt pro VS.",
 	"miDebuggerPath.not.available": "miDebuggerPath neexistuje: {0}. Byl nainstalován ladicí program?",
 	"debugger.deprecated.config": "Klíč {0} je zastaralý. Použijte prosím místo něj {1}.",

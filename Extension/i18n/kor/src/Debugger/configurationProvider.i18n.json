@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "기본 구성",
 	"select.configuration": "구성을 선택합니다.",
+	"debug.configuration.selection.canceled": "디버그 구성 선택 취소됨",
 	"cl.exe.not.available": "{0} 빌드 및 디버그는 VS의 개발자 명령 프롬프트에서 VS Code를 실행하는 경우에만 사용할 수 있습니다.",
 	"miDebuggerPath.not.available": "miDebuggerPath가 없습니다. {0}. 디버거가 설치되었습니까?",
 	"debugger.deprecated.config": "'{0}' 키는 사용되지 않습니다. 대신 '{1}'을(를) 사용하세요.",

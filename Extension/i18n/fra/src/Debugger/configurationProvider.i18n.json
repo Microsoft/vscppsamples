@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Configuration par défaut",
 	"select.configuration": "Sélectionner une configuration",
+	"debug.configuration.selection.canceled": "Sélection de la configuration de débogage annulée",
 	"cl.exe.not.available": "La génération et le débogage de {0} peuvent être utilisés uniquement quand VS Code est exécuté à partir de l'invite de commandes développeur pour VS.",
 	"miDebuggerPath.not.available": "miDebuggerPath n'existe pas : {0}. Un débogueur a-t-il été installé ?",
 	"debugger.deprecated.config": "La clé '{0}' est dépréciée. Utilisez '{1}' à la place.",

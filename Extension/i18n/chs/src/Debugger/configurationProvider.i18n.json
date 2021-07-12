@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "默认配置",
 	"select.configuration": "选择配置",
+	"debug.configuration.selection.canceled": "已取消调试配置选择",
 	"cl.exe.not.available": "仅当从 VS 开发人员命令提示符处运行 VS Code 时，{0} 生成和调试才可用。",
 	"miDebuggerPath.not.available": "miDebuggerPath 不存在: {0}。是否安装了调试程序?",
 	"debugger.deprecated.config": "密钥“{0}”已弃用。请改用“{1}”。",

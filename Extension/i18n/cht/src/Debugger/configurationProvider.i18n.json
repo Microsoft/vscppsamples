@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "預設組態",
 	"select.configuration": "選取組態",
+	"debug.configuration.selection.canceled": "已取消偵錯設定選取範圍",
 	"cl.exe.not.available": "只有從 VS 的開發人員命令提示字元執行 VS Code 時，才可使用 {0} 組建和偵錯。",
 	"miDebuggerPath.not.available": "miDebuggerPath 不存在: {0}。是否已安裝偵錯工具?",
 	"debugger.deprecated.config": "金鑰 '{0}' 已淘汰。請改用 '{1}'。",

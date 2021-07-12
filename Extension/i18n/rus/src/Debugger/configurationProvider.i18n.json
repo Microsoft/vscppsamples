@@ -6,6 +6,7 @@
 {
 	"default.configuration.menuitem": "Конфигурация по умолчанию",
 	"select.configuration": "Выберите конфигурацию",
+	"debug.configuration.selection.canceled": "Выбор конфигурации отладки отменен",
 	"cl.exe.not.available": "Сборку и отладку {0} можно использовать только при запуске VS Code из Командной строки разработчика для VS.",
 	"miDebuggerPath.not.available": "Путь miDebuggerPath не существует: {0}. Установлен ли отладчик?",
 	"debugger.deprecated.config": "Ключ \"{0}\" устарел. Используйте \"{1}\".",
